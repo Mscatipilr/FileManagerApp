@@ -9,7 +9,7 @@ This is a simple file manager application built in Java. It provides a command-l
 - **Directory Management**: Create and delete directories.
 - **File Search**: Search for files within a directory based on file names or extensions.
 - **User Interface**: Simple command-line interface to interact with the application.
-- **Exception Handling and Logging**: Proper exception handling with error messages. Logging can be added to track operations.
+- **Exception Handling**: Proper exception handling with error messages.
 
 ## Project Structure
 
@@ -28,8 +28,6 @@ file-manager/
 │   │   │   │       └── Main.java
 │   └── resources/
 │
-├── logs/
-│   └── application.log (if logging is implemented)
 │
 ├── docs/
 │   └── README.md
